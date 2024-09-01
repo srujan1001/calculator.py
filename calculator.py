@@ -17,7 +17,7 @@ def button_equal():
         entry.insert(tk.END, result)
     except Exception as e:
         entry.delete(0, tk.END)
-        entry.insert(tk.END, "Error!")
+        entry.insert(tk.END, "Error!!!!!!!!!!!!!!!!!!")
 
 def button_backspace():
     current = entry.get()
@@ -31,7 +31,7 @@ def button_square_root():
         entry.insert(tk.END, result)
     except Exception as e:
         entry.delete(0, tk.END)
-        entry.insert(tk.END, "Error")
+        entry.insert(tk.END, "Error!!!!!!!!!!!!!!!!X")
 
 # Create the main window
 window = tk.Tk()
