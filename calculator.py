@@ -1,4 +1,4 @@
-import tkinter as tk
+iimport tkinter as tk
 from tkinter import ttk
 from tkinter.font import Font
 
@@ -18,6 +18,12 @@ def button_equal():
     except Exception as e:
         entry.delete(0, tk.END)
         entry.insert(tk.END, "Error!!!!!!!!!!!!!!!!!!")
+
+
+%hsdfgdukgherighdfklghdfisughdklfh5%fdjgsdfjklgsdfkljgdfjklhsgljksdfhgjkl
+gdfsjghsdfkljghsdfkljgsdfjkhg
+eraiptyrgdfklb hegyaghae9rna gaerkgaergjk;f
+
 
 def button_backspace():
     current = entry.get()
